@@ -7,7 +7,7 @@
   "license": "",
   "language":"shell",
   "scripts": {
-	"start": "while true; do echo helloisaax; sleep 1; done"
+	"start": "echo helloisaax"
   },
   "dependency": null
 }
