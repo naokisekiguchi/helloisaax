@@ -1,0 +1,13 @@
+{
+  "name": "helloisaax",
+  "version": "",
+  "description": "",
+  "main": "",
+  "author": "",
+  "license": "",
+  "language":"shell",
+  "scripts": {
+	"start": "while true; do echo helloisaax; sleep 1; done"
+  },
+  "dependency": null
+}
