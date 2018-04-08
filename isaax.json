@@ -2,12 +2,12 @@
   "name": "helloisaax",
   "version": "",
   "description": "",
-  "main": "",
+  "main": "hello.py",
   "author": "",
   "license": "",
-  "language":"shell",
+  "language":"python",
   "scripts": {
-	"start": "sh ./hello.sh"
+	"start": "python ./hello.py"
   },
   "dependency": null
 }
