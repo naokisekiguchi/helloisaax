@@ -1,6 +1,8 @@
 #!/usr/bin/env pythn
 import time
+from datetime import datetime
 
 while True:
-  print("hello isaax2")
+  now = datetime.now()
+  print("hello isaax:"+str(now))
   time.sleep(1)
